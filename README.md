@@ -1,2 +1,4 @@
 # collegemanagement
-Mini projects
+Mini projects 
+Author : Ushakiran
+
